@@ -1,11 +1,12 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá estranho</h1></summary>
+    <summary><h1 style="display: inline-block">Hello, stranger...</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
+  
 # 👋 Hello, I'm Matteo Rivalles!
 
 I'm **22 years old**, currently pursuing a degree in **Systems Analysis and Development** at UNIP, where I am in my **second semester**. Passionate about technology, I'm constantly learning and focusing on enhancing my skills in web development and programming. 🌱
@@ -33,17 +34,16 @@ _"Code isn’t just a sequence of commands; it's a journey of learning and innov
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 # 👋 Olá, eu sou Matteo Rivalles!
+## ⚡ Interests and Perspective
 
-Tenho **22 anos** e atualmente resido no **Brasil**, onde estudo **Análise e Desenvolvimento de Sistemas**. Sou fluente em **inglês** e possuo experiência em **Python**, **HTML**, **CSS**, **JavaScript**, **C** e **análise de dados**.
+I currently live in **Brazil**, where I study **Systems Analysis and Development**. I am fluent in **English** and have experience with **Python**, **HTML**, **CSS**, **JavaScript**, **C**, and **data analysis**. 
 
-## ⚡ Interesses e Perspectiva
-
-Sou um estudante entusiasta da programação, sempre motivado a criar automações e soluções que otimizem atividades do cotidiano. Acredito que nossa percepção sobre o mundo e nossa capacidade de resolver problemas se beneficiam dos interesses pessoais. No meu tempo livre, gosto de **jogar games** e tenho grande interesse por **livros** de **romance**, **terror** e **ficção científica**. Além disso, sou fã de **animes** (quando o tempo permite!). 
+I am an enthusiastic programming student, always motivated to create automations and solutions that optimize daily tasks. I believe that our personal interests contribute to a refined worldview and enhance problem-solving skills. In my free time, I enjoy **gaming** and have a great interest in **romance**, **horror**, and **science fiction books**. I’m also a fan of **anime** (when time allows!).
 
 ---
 
-_"Programar é mais do que resolver problemas; é um exercício de inovação e aprendizado contínuo."_ 
+_"Programming is more than just problem-solving; it's an exercise in innovation and continuous learning."_
+
  \o/
 </details>
 
@@ -51,17 +51,14 @@ _"Programar é mais do que resolver problemas; é um exercício de inovação e 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattrivalles/profilecard/?igsh=Y2syMzBjdWVieDFw )
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-andrade-835761174)
 
-
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&redirect=true)
 
 <!-- Portfolio -->
 ## Portfolio:
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+![7her4ja](https://github.com/user-attachments/assets/9f7f0a26-127d-405d-8562-820aaff2654b)
+
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
