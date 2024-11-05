@@ -47,14 +47,19 @@ _"Programming is more than just problem-solving; it's an exercise in innovation 
  \o/
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&redirect=true)
-
 <!-- Portfolio -->
 ## Portfolio:
+<p>Under construction, but it will be ready soon.</p>
+
 
 ![7her4ja](https://github.com/user-attachments/assets/9f7f0a26-127d-405d-8562-820aaff2654b)
 
+---
 
+## Right now, I am listening to::
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&redirect=true)
+
+---
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -66,14 +71,17 @@ _"Programming is more than just problem-solving; it's an exercise in innovation 
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
-  
+
+---
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
 
+---
   <!-- Links -->
+## Contate me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattrivalles/profilecard/?igsh=Y2syMzBjdWVieDFw )
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-andrade-835761174)
   
