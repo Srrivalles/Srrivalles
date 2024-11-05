@@ -47,10 +47,6 @@ _"Programming is more than just problem-solving; it's an exercise in innovation 
  \o/
 </details>
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattrivalles/profilecard/?igsh=Y2syMzBjdWVieDFw )
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-andrade-835761174)
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&redirect=true)
 
 <!-- Portfolio -->
@@ -76,4 +72,8 @@ _"Programming is more than just problem-solving; it's an exercise in innovation 
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
+
+  <!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattrivalles/profilecard/?igsh=Y2syMzBjdWVieDFw )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-andrade-835761174)
   
