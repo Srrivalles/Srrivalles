@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello, stranger...</h1></summary>
+    <summary><h1 style="display: inline-block">Hello, stranger 🖐...</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -47,19 +47,10 @@ _"Programming is more than just problem-solving; it's an exercise in innovation 
  \o/
 </details>
 
-<!-- Portfolio -->
-## Portfolio:
-<p>Under construction, but it will be ready soon.</p>
+| Portfolio                                                                                          |                         Right now, I am listening to                             |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| <p>Under construction, but it will be ready soon.</p><br>![7her4ja](https://github.com/user-attachments/assets/9f7f0a26-127d-405d-8562-820aaff2654b) |[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&redirect=true) |
 
-
-![7her4ja](https://github.com/user-attachments/assets/9f7f0a26-127d-405d-8562-820aaff2654b)
-
----
-
-## Right now, I am listening to::
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&redirect=true)
-
----
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
