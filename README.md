@@ -9,7 +9,7 @@
   
 # 👋 Hello, I'm Matteo Rivalles!
 
-I'm **22 years old**, currently pursuing a degree in **Systems Analysis and Development** at UNIP, where I am in my **second semester**. Passionate about technology, I'm constantly learning and focusing on enhancing my skills in web development and programming. 🌱
+I'm **23 years old**, currently pursuing a degree in **Systems Analysis and Development** at UNIP, where I am in my **second semester**. Passionate about technology, I'm constantly learning and focusing on enhancing my skills in web development and programming. 🌱
 
 ## 🚀 What Inspires Me
 
