@@ -70,7 +70,7 @@ _"Programming is more than just problem-solving; it's an exercise in innovation 
 
 | Portfolio                                                                                          |                         Right now, I am listening to                             |
 |----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| <p>Under construction, but it will be ready soon.</p><br>![7her4ja](https://github.com/user-attachments/assets/9f7f0a26-127d-405d-8562-820aaff2654b) |[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&redirect=true) |
+| <p>Portfolio</p>They are still under construction, I am improving them.<br>(https://srrivalles.github.io/Meu_Portfolio/)<br>![7her4ja](https://github.com/user-attachments/assets/9f7f0a26-127d-405d-8562-820aaff2654b) |[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&redirect=true) |
 
 ---
 ## 🌐 Let’s Connect!
