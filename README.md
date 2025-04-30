@@ -31,7 +31,7 @@ Sou estudante de ADS na Universidade Paulista. Tenho conhecimento em HTML, CSS, 
 
 </details>
 
-<details>
+<details open>
 <summary>📚 <strong>Frameworks / Bibliotecas</strong></summary>
 
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-FFB300?style=for-the-badge)
@@ -43,7 +43,7 @@ Sou estudante de ADS na Universidade Paulista. Tenho conhecimento em HTML, CSS, 
 
 </details>
 
-<details>
+<details open>
 <summary>🧰 <strong>Ferramentas</strong></summary>
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -56,7 +56,7 @@ Sou estudante de ADS na Universidade Paulista. Tenho conhecimento em HTML, CSS, 
 
 </details>
 
-<details>
+<details open>
 <summary>🎮 <strong>Game Dev</strong></summary>
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
