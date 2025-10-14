@@ -131,7 +131,18 @@ const matteo = {
 Sempre aberto para discutir projetos, trocar experiências ou falar sobre tecnologia!
 
 <div align="center">
-  
+  ---
+
+## 🎧 Agora Ouvindo
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=33d0lyg66bnl466ph0mvyg0hs&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color_cover=false&bar_color=53b14f&mode=dark">
+  </a>
+</p>
+
+---
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-andrade-835761174)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattrivalles/profilecard/?igsh=Y2syMzBjdWVieDFw)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srrivalles)
